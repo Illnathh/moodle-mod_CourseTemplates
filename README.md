@@ -1,2 +1,4 @@
-moodle-mod_CourseTemplates
-==========================
+Course Templates for Moodle
+===========================
+
+In the beginning...
